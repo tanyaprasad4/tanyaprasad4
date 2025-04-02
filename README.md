@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanya Prasad
 
-<!--
-**tanyaprasad4/tanyaprasad4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Business Analytics & AI @ UT Dallas  
+📍 Dallas, TX | 🧠 Data Enthusiast | 💼 Ex-Deloitte, Accenture | Intern @ 7-Eleven  
+📊 Passionate about solving business problems using data, analytics & storytelling
 
-Here are some ideas to get you started:
+## 🔧 Skills
+**Languages & Tools**: Python, SQL, R, SAS, Excel  
+**Visualization**: Tableau, Power BI  
+**Big Data & Cloud**: Spark, Databricks, Hadoop  
+**Databases**: PostgreSQL, MySQL, MS SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I'm Working On
+- 📦 **Instacart Consumer Behavior Modeling** (GBM with 86% accuracy)
+- 📈 **Stock Market Volatility Analysis** using ARIMA & LSTM
+- 💡 **SEO & Web Analytics Optimization** using Google Analytics
+- 🛍️ **Conagra Sales Sensitivity Analysis** – price modeling for meat substitutes
+
+---
+
+## 📬 Connect with Me
+🔗 [LinkedIn](https://linkedin.com/in/tanyaprasad6)  
+📧 tanyaprasad.6@gmail.com  
